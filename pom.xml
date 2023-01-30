@@ -9,12 +9,12 @@
   <url>http://maven.apache.org</url>
  
  
-<!--	<properties>
+	<properties>
 	
 		<sonar.host.url>http://localhost:9000/</sonar.host.url>
 		<sonar.login>0eee5ead4135282994eca37bd5f0782bb74ddad6</sonar.login>
 		
-	</properties> -->
+	</properties>
 
 <distributionManagement> 
 
